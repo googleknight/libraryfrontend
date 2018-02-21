@@ -1,0 +1,21 @@
+.ErrorModal{
+    display:flex;
+    flex:1;
+    flex-direction: column;
+    align-items: center;
+    border: 1cm;
+    width:50vh;
+    background-color: #f77d3e;
+    align-self: center;
+}
+.ErrorModal-button {
+    display:felx;
+    background: url('./load.png');
+    width:200px;
+    height:200px;
+   flex:1;
+}
+.ErrorModal-message{
+    display:felx;
+    flex: 1;
+}
